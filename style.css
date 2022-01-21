@@ -1,0 +1,41 @@
+body{
+    background: #fff8dc;
+}
+
+.output-container{
+    font-size:50px;
+    text-align:center;
+    background: rgb(54, 54, 54);
+    color:white;
+    border-radius:23px;
+    width:50%;
+    font-family:Tahoma, sans-serif;
+    height:70px;
+    margin:250px 320px;
+
+}
+
+.output-container span{
+    color:rgb(255, 188, 20);
+}
+
+.color-btn{
+    width:150px;
+    height:50px;
+    border-radius:23px;
+    border:none;
+    border:2px solid black;
+    margin:-5000px 595px;
+    font-size:19px;
+    opacity:75%;
+    background: transparent;
+}
+
+.color-btn:hover{
+    opacity:100%;
+    cursor: pointer;
+}
+
+.color-btn:active{
+    box-shadow: 1px 1px 11px black;
+}
